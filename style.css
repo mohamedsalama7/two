@@ -138,14 +138,14 @@ section#hero {
   font-size: 3rem;
   margin-bottom: 1rem;
   display: block;
-  transform: translateY(-700px);
+  transform: translateY(-1500px);
   animation:  move 1s forwards ease-in-out;
   animation-delay: .4s;
 }
 
 #hero p {
   text-transform: capitalize;
-  transform: translate(-800px);
+  transform: translate(-2000px);
   animation:  move 1s forwards ease;
   animation-delay: 1s;
 }
